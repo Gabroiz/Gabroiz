@@ -2,14 +2,8 @@
 
 ## 🙂 About Me
  - Hi! I'm Gabriel Gomes de Queiroz
- - I'm a Front-End Software Engineer with 3 years of experience in Web development with javascript frameworks, specially React ❤
+ - I'm a Front-End Software Engineer with more than 4 years of experience in Web development with javascript frameworks, specially React ❤
  - I'm currently (and keeping) learning Next.js, Typescript, React.js, Node.js, Javascript and Three.js
-
-And also...
-
-<p align="center" size="4">
-  ✨ <strong> Open To Work! </strong>✨
-</p>
 
 ## 💻 Languages And Technologies
 
@@ -29,6 +23,13 @@ And also...
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-000?&logo=Styled-components)
 ![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+
+ **The Toolbox**
+
+![NPM](https://img.shields.io/badge/-Npm-000?&logo=NPM)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
+![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=ESLint)
 
 ## 📞 Contact
 
