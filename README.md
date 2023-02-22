@@ -41,5 +41,5 @@
 
 <p align="right">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Gabroiz&color=lightgrey&style=flat-square&label=Visitors">
-  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=June+2022&color=lightgrey&style=flat-square">
+  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=Febuary+2023&color=lightgrey&style=flat-square">
 </p>
