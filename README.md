@@ -2,7 +2,7 @@
 
 ## 🙂 About Me
  - Hi! I'm Gabriel Gomes de Queiroz
- - I'm a Front-End Software Engineer with more than 4 years of experience in Web development with javascript frameworks, specially React ❤
+ - I'm a Front-End Software Engineer with more than 5 years of experience in Web development with javascript frameworks, specially React ❤
  - I'm currently (and keeping) learning Next.js, Typescript, React.js, Node.js, Javascript and Three.js
 
 ## 💻 Languages And Technologies
@@ -41,5 +41,5 @@
 
 <p align="right">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Gabroiz&color=lightgrey&style=flat-square&label=Visitors">
-  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=Febuary+2023&color=lightgrey&style=flat-square">
+  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=November+2023&color=lightgrey&style=flat-square">
 </p>
