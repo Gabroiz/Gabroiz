@@ -1,0 +1,11 @@
+{
+  "header": {
+    "about": "Sobre",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "common": {
+    "send": "enviar"
+  }
+}

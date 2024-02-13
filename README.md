@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](https://github.com/Gabroiz/Gabroiz/blob/master/Personal%20Banner.png)
 
-## Getting Started
+## 🙂 About Me
 
-First, run the development server:
+- Hi! I'm Gabriel Gomes de Queiroz
+- I'm a Front-End Software Engineer with more than 5 years of experience in Web development with javascript frameworks, specially React ❤
+- I'm currently (and keeping) learning Next.js, Typescript, React.js, Node.js, Javascript and Three.js
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💻 Languages And Technologies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**The Base**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Html](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=f10)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**The complements**
 
-## Learn More
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![StyledComponents](https://img.shields.io/badge/-Styled%20Components-000?&logo=Styled-components)
+![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 
-To learn more about Next.js, take a look at the following resources:
+**The Toolbox**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![NPM](https://img.shields.io/badge/-Npm-000?&logo=NPM)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
+![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=ESLint)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📞 Contact
 
-## Deploy on Vercel
+**You can contact me through:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<a target="_blank" href="https://www.linkedin.com/in/gabroiz/"><img src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=07b" /></a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=gabroiz.2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?&logo=Gmail" /></a>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Gabroiz&color=lightgrey&style=flat-square&label=Visitors">
+  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=November+2023&color=lightgrey&style=flat-square">
+</p>
