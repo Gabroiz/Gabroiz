@@ -1,9 +1,9 @@
-![](https://github.com/Gabroiz/Gabroiz/blob/master/Personal%20Banner.png)
+![](https://github.com/Gabroiz/Gabroiz/blob/main/PersonalBanner.png)
 
 ## 🙂 About Me
 
 - Hi! I'm Gabriel Gomes de Queiroz
-- I'm a Front-End Software Engineer with more than 5 years of experience in Web development with javascript frameworks, specially React ❤
+- I'm a Senior Software Engineer with more than 6 years of experience in Web development with javascript frameworks, specially React ❤
 - I'm currently (and keeping) learning Next.js, Typescript, React.js, Node.js, Javascript and Three.js
 
 ## 💻 Languages And Technologies
@@ -17,6 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=f10)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
 **The complements**
 
@@ -31,6 +32,7 @@
 ![NPM](https://img.shields.io/badge/-Npm-000?&logo=NPM)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 ![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=ESLint)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 
 ## 📞 Contact
 
@@ -41,5 +43,5 @@
 
 <p align="right">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Gabroiz&color=lightgrey&style=flat-square&label=Visitors">
-  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=November+2023&color=lightgrey&style=flat-square">
+  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=June+2024&color=lightgrey&style=flat-square">
 </p>
