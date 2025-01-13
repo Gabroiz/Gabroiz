@@ -3,8 +3,8 @@
 ## 🙂 About Me
 
 - Hi! I'm Gabriel Gomes de Queiroz
-- I'm a Senior Software Engineer with more than 6 years of experience in Web development with javascript frameworks, specially React ❤
-- I'm currently (and keeping) learning Next.js, Typescript, React.js, Node.js, Javascript and Three.js
+- I'm a Senior Software Engineer with more than 7 years of experience in software development.
+- I'm currently (and keeping) learning Next.js, Typescript, React.js, Node.js, MongoDB, SQL, Javascript and Python
 
 ## 💻 Languages And Technologies
 
@@ -43,5 +43,5 @@
 
 <p align="right">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Gabroiz&color=lightgrey&style=flat-square&label=Visitors">
-  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=June+2024&color=lightgrey&style=flat-square">
+  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=January+2025&color=lightgrey&style=flat-square">
 </p>
